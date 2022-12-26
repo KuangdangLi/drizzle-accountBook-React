@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drizzle-accountBook-React/static/css/main.f1ceefbb.chunk.css",
+    "main.js": "/drizzle-accountBook-React/static/js/main.ab7e736b.chunk.js",
+    "main.js.map": "/drizzle-accountBook-React/static/js/main.ab7e736b.chunk.js.map",
+    "runtime-main.js": "/drizzle-accountBook-React/static/js/runtime-main.926b3291.js",
+    "runtime-main.js.map": "/drizzle-accountBook-React/static/js/runtime-main.926b3291.js.map",
+    "static/js/2.9f7e58c1.chunk.js": "/drizzle-accountBook-React/static/js/2.9f7e58c1.chunk.js",
+    "static/js/2.9f7e58c1.chunk.js.map": "/drizzle-accountBook-React/static/js/2.9f7e58c1.chunk.js.map",
+    "index.html": "/drizzle-accountBook-React/index.html",
+    "precache-manifest.38ab16f17dea0471de3258332fd20e00.js": "/drizzle-accountBook-React/precache-manifest.38ab16f17dea0471de3258332fd20e00.js",
+    "service-worker.js": "/drizzle-accountBook-React/service-worker.js",
+    "static/css/main.f1ceefbb.chunk.css.map": "/drizzle-accountBook-React/static/css/main.f1ceefbb.chunk.css.map",
+    "static/js/2.9f7e58c1.chunk.js.LICENSE.txt": "/drizzle-accountBook-React/static/js/2.9f7e58c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.926b3291.js",
+    "static/js/2.9f7e58c1.chunk.js",
+    "static/css/main.f1ceefbb.chunk.css",
+    "static/js/main.ab7e736b.chunk.js"
+  ]
+}
